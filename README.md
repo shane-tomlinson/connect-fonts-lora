@@ -45,6 +45,7 @@ Locale-optimised font sets can be served by specifying the locale in the fonts.c
 
 Available subsets:
 * latin
+* en
 
 5. Set your CSS up to use the new font by using the "Lora" font-family.
 ```
